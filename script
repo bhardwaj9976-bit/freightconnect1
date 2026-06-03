@@ -1,0 +1,7 @@
+bash
+
+mkdir -p /home/claude/freightos/{apps/{mobile/src/{screens/{customer,driver,fleet,admin},components/{common,maps,forms},navigation,services,store,hooks,utils},backend/src/{modules/{auth,booking,tracking,payment,fleet,driver,notification,analytics,ai,chat,pod,admin},common/{guards,interceptors,filters,decorators},config,database/{migrations,seeds}},shared/{types,constants,utils}}}
+echo "Directory structure created"
+Output
+
+Directory structure created
